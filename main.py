@@ -13,3 +13,9 @@ with col2:
     I'am a python programmer
     """
     st.info(content)
+
+content2 = """
+below you can find python apps U built
+"""
+
+st.write(content2)
