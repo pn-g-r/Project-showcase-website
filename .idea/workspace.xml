@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d3dd06a-b3c9-48ed-aa15-70cfdc6fd558" name="Changes" comment="create columns, image, and description">
+    <list default="true" id="0d3dd06a-b3c9-48ed-aa15-70cfdc6fd558" name="Changes" comment="add description on the new colums">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721479041635</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add description on the new colums">
+      <option name="closed" value="true" />
+      <created>1721479507558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721479507558</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +123,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="Add data source and image files" />
     <MESSAGE value="create columns, image, and description" />
-    <option name="LAST_COMMIT_MESSAGE" value="create columns, image, and description" />
+    <MESSAGE value="add description on the new colums" />
+    <option name="LAST_COMMIT_MESSAGE" value="add description on the new colums" />
   </component>
 </project>
