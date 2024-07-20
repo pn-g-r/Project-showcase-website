@@ -11,7 +11,10 @@ with col1:
 with col2:
     st.title("Ardit Sulce")
     content = """
-    I'am a python programmer
+    I'am a python programmer. Python's syntax is clean and easy to understand, 
+    making it perfect for beginners and experts alike. 
+    This simplicity allows me to focus on solving problems rather than deciphering the programming language itself. 
+    It's like writing out my thoughts directly into code.
     """
     st.info(content)
 

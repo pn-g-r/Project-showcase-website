@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d3dd06a-b3c9-48ed-aa15-70cfdc6fd558" name="Changes" comment="Day 22: Render the app titles in two columns">
+    <list default="true" id="0d3dd06a-b3c9-48ed-aa15-70cfdc6fd558" name="Changes" comment="Day 22: Add app description, image, and links">
+      <change afterPath="$PROJECT_DIR$/pages/Contact_Us.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -112,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721485717390</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 22: Add app description, image, and links">
+      <option name="closed" value="true" />
+      <created>1721486437012</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721486437012</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +142,7 @@
     <MESSAGE value="create columns, image, and description" />
     <MESSAGE value="add description on the new colums" />
     <MESSAGE value="Day 22: Render the app titles in two columns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 22: Render the app titles in two columns" />
+    <MESSAGE value="Day 22: Add app description, image, and links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 22: Add app description, image, and links" />
   </component>
 </project>
